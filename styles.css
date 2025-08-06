@@ -15,9 +15,9 @@ header h1{
 div.post{
     background: white ;
     margin-top: 10px;
-    border: 1px solid red;    
+        
     
-    
+
  }   
 div.post img{
     width: 100%;
@@ -44,5 +44,4 @@ div.post h2, div.post p{
 div.container{
     width:600px;
     margin: auto;
-    border: 1px solid blue;
 }
